@@ -25,3 +25,5 @@ git branch -M main
 
 git push -u origin main
 
+to update use git add . && git commit -m "update READme.md"  and git push -u origin main
+
