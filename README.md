@@ -17,3 +17,11 @@ git add .
 
 git commit-m "first commit"
 
+git add . && git commit -m "update READme.md" 
+
+git remote add origin https://github.com/Viswa243/simple-dvc.git
+
+git branch -M main
+
+git push -u origin main
+
